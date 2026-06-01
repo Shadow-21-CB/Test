@@ -1,2 +1,2 @@
 print("hello world")
-print("test protocol V1") 
+print("test protocol") 
